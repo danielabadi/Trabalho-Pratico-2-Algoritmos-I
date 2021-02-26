@@ -1,3 +1,2 @@
-# TP-2---Algoritmos1
-Segundo trabalho da matéria algoritmos 2 - UFMG - 2020.1
-Para mais detalhes leia a documentação.
+# Trabalho Prático 1 - Algoritmos I
+Segundo trabalho prático da matéria Algoritmos I, UFMG 2020/1. Para mais informações, leia o arquivo de especificação.
