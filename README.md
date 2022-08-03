@@ -1,5 +1,5 @@
 # Trabalho Prático 2: Jogo dos Diamantes
-##Introdução
+## Introdução
 
 Adriana é uma ourives muito famosa e conhecida por suas excentricidades. Extremamente metódica, sempre que recebe um malote com diamantes realiza o mesmo procedimento antes da criação de suas joia. Ela faz o chamado Jogo dos Diamantes para cada malote.
 
